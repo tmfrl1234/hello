@@ -28,7 +28,8 @@ public class Gugudan {
 				number = (int) (number - (temp * (Math.pow(10, length-1))));
 				length--;
 			}
-		}
+		} 
+		
 		System.out.println(answer);
 	}
 }
